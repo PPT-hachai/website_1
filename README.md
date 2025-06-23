@@ -1,2 +1,2 @@
 # website_1
-for my 3s program
+for our 3s program
